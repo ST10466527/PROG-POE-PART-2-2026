@@ -6,7 +6,6 @@ The **CyberSecurity Awareness Bot – Part 2** is an enhanced console-based chat
 
 The application builds upon basic chatbot concepts by introducing improved conversational flow, modular programming, keyword recognition, and better user interaction techniques.
 
----
 
 ## Objectives of Part 2
 
