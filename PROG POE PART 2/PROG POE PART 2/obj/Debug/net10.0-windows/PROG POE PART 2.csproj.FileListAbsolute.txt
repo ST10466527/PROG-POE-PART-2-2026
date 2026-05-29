@@ -1,0 +1,19 @@
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\ChatbotGUI.baml
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\ChatbotGUI.g.cs
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2_MarkupCompile.cache
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.g.resources
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.AssemblyInfoInputs.cache
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.AssemblyInfo.cs
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.csproj.CoreCompileInputs.cache
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\bin\Debug\net10.0-windows\PROG POE PART 2.exe
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\bin\Debug\net10.0-windows\PROG POE PART 2.deps.json
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\bin\Debug\net10.0-windows\PROG POE PART 2.runtimeconfig.json
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\bin\Debug\net10.0-windows\PROG POE PART 2.dll
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\bin\Debug\net10.0-windows\PROG POE PART 2.pdb
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.dll
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\refint\PROG POE PART 2.dll
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.pdb
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\PROG POE PART 2.genruntimeconfig.cache
+C:\Users\busik\source\repos\PROG POE PART 2\PROG POE PART 2\obj\Debug\net10.0-windows\ref\PROG POE PART 2.dll
