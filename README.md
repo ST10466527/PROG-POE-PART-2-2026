@@ -239,12 +239,7 @@ Potential future enhancements include:
 
 
 ## Presentation Video
-
-Add your presentation video link here:
-
-```text
-https://youtu.be/
-```
+https://youtu.be/6oUS4KevS1M
 
 ---
 
